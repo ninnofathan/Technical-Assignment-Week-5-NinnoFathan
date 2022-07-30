@@ -1,2 +1,2 @@
 # Technical-Assignment-Week-5-NinnoFathan
-![Untitled Sketch 2 fzz - Fritzing -  Breadboard View  30_07_2022 15_04_35](https://user-images.githubusercontent.com/108131425/181879269-564192c9-144d-4824-970a-2d524e9e072a.png)
+![Untitled Sketch 2 fzz - Fritzing -  Breadboard View  30_07_2022 15_04_35](https://user-images.githubusercontent.com/108131425/181879351-a92cfffa-a08a-4564-9250-09d842d5c057.png)
